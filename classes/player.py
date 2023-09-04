@@ -29,9 +29,9 @@ class Player(pygame.sprite.Sprite):
         self.game_time = 0
         self.score_add = 5
         self.shoot_timer = self.score_time = pygame.time.get_ticks()
-        self.shoot_interval = 800
+        self.shoot_interval = 600
         self.shoot_interval_2 = 400
-        self.shoot_interval_3 = 500
+        self.shoot_interval_3 = 350
         self.countt = 0
         self.shooting = False
         self.score_count = 0
