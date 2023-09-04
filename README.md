@@ -1,4 +1,4 @@
-#MandalorianGame
+# MandalorianGame
 
 Esse é um jogo com tema de Star Wars.
 Você é o mandaloriano e seu objetivo é transportar o Groku para um local seguro enquanto é atacado.
