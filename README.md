@@ -1,14 +1,10 @@
-# MandalorianGame
+The game was developed in Python 3.11.5 using pygame 2.5.2.
 
-Esse é um jogo com tema de Star Wars. Você é o mandaloriano e seu objetivo é transportar o Groku para um local seguro enquanto é atacado. 
-
-O jogo não tem um fim, o objetivo dele é basicamente sobreviver o maior tempo possível e ganhar pontos matando seus inimigos.
-
-# Binds: 
-Tiro único -> 'j'
-
-Tiro contínuo -> 'k'
-
-Tiro duplo -> 'l'
-
-Movimento -> 'a' e 'd'
+To run it, you must have an virtual environment:
+'''
+python -m venv env
+'''
+After that, just install pygame with pip then run the main.py:
+'''
+python main.py
+'''
