@@ -4,7 +4,7 @@ To run it, you must have an virtual environment:
 ```
 python -m venv env
 ```
-After that, just install pygame with pip then run the *main.py*:
+After that, just install pygame with pip then run the *main.py* file:
 ```
 python main.py
 ```
